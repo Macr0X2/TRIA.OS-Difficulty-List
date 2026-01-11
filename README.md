@@ -30,14 +30,15 @@ This is something that should be looked at and taken into account for everyone, 
 
 1. Despite how unserious some maps may seem, if they fit the criteria of an already Verified map (aka. map is already verified into the game) they are still allowed to be put onto the list.
 2. If you think a maps rating is unclear, or a map is missing, wrong or there's an issue with the list, please report it in [#general](https://discord.com/channels/1045548615709491261/1045548615709491264) of the Discord and we'll get to it ASAP.
-3. If a map is currently broken/bugged but still beatable, please label the map as [!] infront of the map name, also **bold** formatted. Do not list a map that is not planning to be fixed.
+3. Your map can be a buffed version as long as it is in a seperate verified map, if the map gets buffed after there are victors, it will be blacklisted from the list.
+4. If a map is currently broken/bugged but still beatable, please label the map as [!] infront of the map name, also **bold** formatted. Do not list a map that is not planning to be fixed.
 
 Example: **[!] Kneeling Shore**
 
-4. If the bug is map breaking (Its impossible to beat the map because of it) label the map as [!!!] infront of the map name, also **bold** formatted. If a map contains [!!!] for 2 months, it will be removed and only readded after a fix.
+5. If the bug is map breaking (Its impossible to beat the map because of it) label the map as [!!!] infront of the map name, also **bold** formatted. If a map contains [!!!] for 2 months, it will be removed and only readded after a fix.
 
 Example: **[!!!] Kneeling Shore**
 
-5. Reach out to us in the official Discord if you would like to switch the placement of a map.
-6. All maps listed be Divine or harder (aside from Public map list).
+6. Reach out to us in the official Discord if you would like to switch the placement of a map.
+7. All maps listed be Divine or harder (aside from Public map list).
 > More rules may be added at a later date.
