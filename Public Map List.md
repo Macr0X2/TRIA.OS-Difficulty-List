@@ -1,6 +1,6 @@
 > **THE OFFICIAL TRIA.OS DIFFICULTY PUBLIC MAP LIST**
 
-> **This part of the list covers maps in beginner/advanced servers**
+> `This part of the list covers maps in beginner/advanced servers`
 
 > **Eternal**
 
