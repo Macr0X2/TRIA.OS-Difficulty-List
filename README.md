@@ -24,7 +24,7 @@ Below are links to useful pieces of information for you to know all about the Di
 - [Tutorial for adding/submitting maps](https://www.youtube.com/watch?v=AX8PWRI3ZKw) (May be semi-oudated)
 
 ## Map Guidelines
-This is something that should be looked at and taken into account for everyone, because ***no matter how many complaints the team gets these specific rules will always apply no matter the case***. These rules also apply if you would like to contribute to the list.
+This is something that should be looked at and taken into account for everyone, because ***no matter how many complaints the team gets these specific rules will always apply no matter the case***. These rules also apply if you would like to contribute to the list. Pull requests for difficulty will be taken into account by the team and will be approved if the team agrees.
 
 <hr>
 
